@@ -78,7 +78,7 @@ function Registration() {
                         </section>
                         <div className="col-9 d-flex align-items-center ">
                                 <div className="services-wrap rounded-right w-100">
-                                <h3 className="heading-section mb-4 text-center">Better Way to Rent Your Perfect Cars</h3>
+                                <h3 className="heading-section mb-4 text-center">Better Ways to interact</h3>
                                 <div className="row d-flex mb-4">
                                     <div className="col-md-4 d-flex align-self-stretch ftco-animate ml-2">
                                     <div className="services w-100 text-center">
