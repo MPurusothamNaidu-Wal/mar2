@@ -40,7 +40,6 @@ const LoginPage = () => {
         <div>
             <section className="login">
             <div className="container-fluid">
-                <h1 id="showHeading">Heading</h1>
                 <div className="row">
                 <div className="col-sm-6 text-black">
 
